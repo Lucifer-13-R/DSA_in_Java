@@ -33,10 +33,6 @@ public class selsort {
             for(int num:nums){
                 System.out.print(num + " ");
             }
-
-
-
-
         }
 
       //  System.out.println();
